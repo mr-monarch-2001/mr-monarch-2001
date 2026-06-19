@@ -1,10 +1,325 @@
-- 👋 Hi, I’m @mr-monarch
-- 👀 I’m interested in technology,code,computer ...
-- 🌱 I’m currently learning cyber security, hacking ,IoT ...
-- 💞️ I’m looking to collaborate on cybernetic , cyber-security ...
-- 📫 This is the only way to  reach me ...
+<!-- ████████████████████████████████████████████████████████████████████████████ -->
+<!-- ██                    MR. MONARCH :: GITHUB PROFILE                       ██ -->
+<!-- ████████████████████████████████████████████████████████████████████████████ -->
 
-<!---
-mr-monarch-2001/mr-monarch-2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                ║
+║  ███╗   ███╗██████╗                                                            ║
+║  ████╗ ████║██╔══██╗                                                           ║
+║  ██╔████╔██║██████╔╝                                                           ║
+║  ██║╚██╔╝██║██╔══██╗                                                           ║
+║  ██║ ╚═╝ ██║██║  ██║██╗                                                        ║
+║  ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝                                                        ║
+║                                                                                ║
+║  ███╗   ███╗ ██████╗ ███╗   ██╗ █████╗ ██████╗  ██████╗██╗  ██╗                ║
+║  ████╗ ████║██╔═══██╗████╗  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║                ║
+║  ██╔████╔██║██║   ██║██╔██╗ ██║███████║██████╔╝██║     ███████║                ║
+║  ██║╚██╔╝██║██║   ██║██║╚██╗██║██╔══██║██╔══██╗██║     ██╔══██║                ║
+║  ██║ ╚═╝ ██║╚██████╔╝██║ ╚████║██║  ██║██║  ██║╚██████╗██║  ██║                ║
+║  ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝                ║
+║                                                                                ║
+║         [ CYBERSECURITY ENGINEER  ::  PENETRATION TESTER  ::  GRID DEFENDER ] ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  > SYSTEM BOOT SEQUENCE INITIATED...                            │
+│  > Loading operator profile...                          [DONE]  │
+│  > Neural link established...                           [DONE]  │
+│  > Threat detection online...                           [DONE]  │
+│  > Welcome back, Operator.                                       │
+│  > Critical infrastructure needs protection.                    │
+│  > Mission accepted.                                            │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                      PLAYER CARD                              -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║  ░▒▓  OPERATOR IDENTIFICATION CARD  ▓▒░                    [GRID // NET] ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║   ALIAS       :  Mr. MonArch                                             ║
+║   CLASS       :  Cyber Runner                                            ║
+║   FACTION     :  Grid Defenders                                          ║
+║   LEVEL       :  ██████████████████████████████  99 / MAX               ║
+║   STATUS      :  ● ONLINE                                                ║
+║                                                                          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║   THREAT LEVEL METER                                                     ║
+║   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░                        ║
+║   ████████████████████████████████████████████░  [CRITICAL // 94%]      ║
+║                                                                          ║
+║   NEURAL LINK   :  [■■■■■■■■■■■■■■■■■■■■]  FULLY SYNCED                 ║
+║   UPTIME        :  847 days, 14 hrs, 22 min                              ║
+║   CLEARANCE     :  ULTRA // GRID OPERATIONS                              ║
+║   LAST SEEN     :  SECTOR-7 :: POWER GRID NODE ALPHA                    ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    CHARACTER STATS                             -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║  ░▒▓  CHARACTER STATS  ▓▒░                          [ RUNTIME: ACTIVE ] ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  PENETRATION TESTING                                                     ║
+║  [████████████████████████████████████████████░░░░]  91%                ║
+║                                                                          ║
+║  OT / SCADA SECURITY                                                     ║
+║  [████████████████████████████████████████░░░░░░░░]  84%                ║
+║                                                                          ║
+║  CYBER RANGE DEVELOPMENT                                                 ║
+║  [██████████████████████████████████████████████░░]  94%                ║
+║                                                                          ║
+║  THREAT HUNTING                                                          ║
+║  [████████████████████████████████████░░░░░░░░░░░░]  78%                ║
+║                                                                          ║
+║  AUTOMATION & TOOLING                                                    ║
+║  [██████████████████████████████████████████░░░░░░]  86%                ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     ACTIVE MISSIONS                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║  ░▒▓  ACTIVE MISSIONS  ▓▒░                                [CLASSIFIED]  ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  [●] MISSION_01  ::  Building Power Grid Cyber Ranges                   ║
+║      STATUS      >>  ██████████████████████░░░░░░  IN PROGRESS          ║
+║      PRIORITY    >>  CRITICAL                                            ║
+║                                                                          ║
+║  [●] MISSION_02  ::  Simulating Nation-State Attacks                    ║
+║      STATUS      >>  ████████████░░░░░░░░░░░░░░░░  IN PROGRESS          ║
+║      PRIORITY    >>  HIGH                                                ║
+║                                                                          ║
+║  [●] MISSION_03  ::  Developing OT/SCADA Security Labs                  ║
+║      STATUS      >>  ████████████████████░░░░░░░░  IN PROGRESS          ║
+║      PRIORITY    >>  CRITICAL                                            ║
+║                                                                          ║
+║  [●] MISSION_04  ::  Red Team vs Blue Team Exercises                    ║
+║      STATUS      >>  ███████████████████████████░  NEAR COMPLETE        ║
+║      PRIORITY    >>  HIGH                                                ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    ARSENAL / WEAPONS                           -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║  ░▒▓  ARSENAL :: WEAPONS LOADOUT  ▓▒░                    [ARMED // v2]  ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  SCRIPTING & DEVELOPMENT                                                 ║
+║  ┌──────────────────────────────────────────────────────────────────┐   ║
+║  │  [Go]  [Python]  [Bash]  [PowerShell]  [Java]  [C/C++]           │   ║
+║  └──────────────────────────────────────────────────────────────────┘   ║
+║                                                                          ║
+║  OFFENSIVE TOOLS                                                         ║
+║  ┌──────────────────────────────────────────────────────────────────┐   ║
+║  │  [Burp Suite]  [Metasploit]  [Nmap]  [Nessus]  [Gobuster]        │   ║
+║  │  [enum4linux]  [dnsenum]  [Nikto]  [SQLmap]                      │   ║
+║  └──────────────────────────────────────────────────────────────────┘   ║
+║                                                                          ║
+║  DEFENSIVE & MONITORING                                                  ║
+║  ┌──────────────────────────────────────────────────────────────────┐   ║
+║  │  [Wireshark]  [TCPDump]  [Wazuh]  [Splunk]  [ELK Stack]          │   ║
+║  └──────────────────────────────────────────────────────────────────┘   ║
+║                                                                          ║
+║  INFRASTRUCTURE                                                          ║
+║  ┌──────────────────────────────────────────────────────────────────┐   ║
+║  │  [Docker]  [Kubernetes]  [Linux]  [Kali Linux]  [Cisco IOS]      │   ║
+║  └──────────────────────────────────────────────────────────────────┘   ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  TERMINAL ACTIVITY FEED                        -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║  ░▒▓  LIVE TERMINAL FEED  ▓▒░                        [TTY1 :: ACTIVE]   ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  ┌──(monarch㉿cyberrange)-[~/grid/sector-7]                             ║
+║  └─$ ./init_cyberrange.sh --target=power_grid --mode=full               ║
+║                                                                          ║
+║  [*] Accessing Cyber Range...                                   [DONE]  ║
+║  [*] Deploying Attack Simulation modules...                     [DONE]  ║
+║  [*] Spinning up adversary nodes...                             [DONE]  ║
+║  [*] Activating Blue Team defenses...                           [DONE]  ║
+║  [*] IEC-61850 protocol emulation online...                     [DONE]  ║
+║  [*] Grid Status: SECURED                                       [OK]   ║
+║                                                                          ║
+║  ┌──(monarch㉿cyberrange)-[~/grid/sector-7]                             ║
+║  └─$ nmap -sV -O --script vuln 192.168.100.0/24                         ║
+║                                                                          ║
+║  Starting Nmap 7.94...                                                   ║
+║  Scanning 256 hosts [1000 ports each]                                    ║
+║  Discovered open port 102/tcp  >>  Siemens S7 PLC                       ║
+║  Discovered open port 502/tcp  >>  Modbus TCP                            ║
+║  Discovered open port 20000/tcp >> DNP3                                  ║
+║  [!] CVE-2023-XXXX detected :: Severity: CRITICAL                       ║
+║                                                                          ║
+║  ┌──(monarch㉿cyberrange)-[~/grid/sector-7]                             ║
+║  └─$ _                                                                   ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    SYSTEM MESSAGES                             -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║  ░▒▓  SYSTEM MESSAGES  ▓▒░                           [PRIORITY: ULTRA]  ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  [!] Welcome back, Operator.                                             ║
+║  [!] Critical infrastructure needs protection.                          ║
+║  [!] 3 new vulnerabilities detected in SCADA network — assess now.      ║
+║  [!] Red team exercise scheduled :: T-minus 04:00:00                    ║
+║  [!] Mission accepted. Good hunting.                                    ║
+║                                                                          ║
+║  ════════════════════════════════════════════════════════════            ║
+║   "The grid never sleeps. Neither do its defenders."                    ║
+║                                          — Mr. MonArch                  ║
+║  ════════════════════════════════════════════════════════════            ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   GITHUB STATS BLOCK                           -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║  ░▒▓  GRID STATS :: GITHUB ACTIVITY  ▓▒░                                ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanha-patra&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=39ff14&icon_color=00e5ff&text_color=8892a4)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanha-patra&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=39ff14&text_color=8892a4)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   CONNECT / CONTACT                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║  ░▒▓  ESTABLISH SECURE CHANNEL  ▓▒░                   [ENCRYPTED // v3] ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║   CHANNEL_01  >>  LinkedIn  ::  linkedin.com/in/kanha-patra             ║
+║   CHANNEL_02  >>  Email     ::  kanha.p.cybersec@gmail.com              ║
+║   CHANNEL_03  >>  TryHackMe ::  tryhackme.com/p/mrmonarch               ║
+║                                                                          ║
+║   [?] Transmit?   >> Y / N                                               ║
+║   [Y] Connection secured. Awaiting message...                           ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                       FOOTER                                   -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│  [ GRID DEFENDERS // CYBER RANGE OPS // CRITICAL INFRASTRUCTURE SEC ]    │
+│                                                                          │
+│  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  │
+│                                                                          │
+│             >> END OF FILE :: monarch.profile.v99 <<                    │
+│                        exit 0  [ OK ]                                   │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=kanha-patra&color=39ff14&style=flat-square&label=OPERATORS+ONLINE)
+
+</div>
+
+<!-- ████████████████████████████████████████████████████████████████████████ -->
